@@ -1,0 +1,6 @@
+{
+  "$schema": "./local-schema.json",
+  "dependencies": {
+    "nevis": "^0.5.0"
+  }
+}
